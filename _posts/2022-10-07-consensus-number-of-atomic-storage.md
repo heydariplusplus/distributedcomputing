@@ -5,7 +5,7 @@ categories: concurrency
 tags: consensus
 ---
 
-<div class="thi-box" markdown="1">
+<div class="thm-box" markdown="1">
 <div class="box-title" markdown="1">
 **Theorem** 
 </div>
@@ -14,7 +14,7 @@ Read/write atomic registers have consensus number one.
 </div>
 </div>
 
-<div class="thi-box" markdown="1">
+<div class="thm-box" markdown="1">
 <div class="box-title" markdown="1">
 **Proof Outline** 
 </div>

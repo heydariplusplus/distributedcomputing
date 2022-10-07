@@ -1,17 +1,17 @@
-.thi-box {
+.thm-box {
     margin: 2rem 0;
     overflow: auto;
 }
-.thi-box .box-title {
-    background-color: #2874cf;
+.thm-box .box-title {
+    background-color: #5499C7;
     color: white;
     padding: 8px 15px;
     border-radius: 5px 5px 0 0;
 }
-.thi-box .box-title p {
+.thm-box .box-title p {
     margin: 0;
 }
-.thi-box .box-content {
+.thm-box .box-content {
     border: 1px #ddd solid;
     padding: 0 15px;
 }
