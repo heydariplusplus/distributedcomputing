@@ -35,4 +35,12 @@ layout: default
   {%- endif -%}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+
+  <div>
+    {% for tag in page.tags %}
+    {% capture test %}{{tag | slice: 0}}{% endcapture %}
+    {% capture testup %}{{tag | slice: 0 | upcase}}{% endcapture %}
+    <span class="w3-tag w3-teal">{{tag}}</span>
+    {% endfor %}
+  </div>
 </article>
