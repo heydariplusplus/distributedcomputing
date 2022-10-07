@@ -10,7 +10,7 @@ tags: concurrency consensus-number atomic-storage
 **Theorem** 
 </div>
 <div class="box-content" markdown="1">
-Read/write atomic registers have consensus number one.
+Read/write [atomic registers]({% link _posts/2022-10-07-atomic-storage.md %}) have consensus number one.
 </div>
 </div>
 
