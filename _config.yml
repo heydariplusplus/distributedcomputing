@@ -34,7 +34,10 @@ theme: minima
 plugins:
   - jekyll-feed
 
-markdown: kramdown
+# markdown: kramdown
+
+# include:
+#   - _posts
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Consensus Number of Read/Write Atomic Registers"
-date:   2022-10-07 11:07:38 +0100
-categories: concurrency consensus-number atomic-registers
+date:   2022-10-07 12:30:04 +0100
+categories: consensus-number concurrency
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
