@@ -2,7 +2,6 @@
 layout: post
 title: "Consensus Number of Atomic Storage"
 categories: concurrency
-tags: concurrency consensus-number atomic-storage
 ---
 
 <div class="thm-box" markdown="1">
