@@ -8,6 +8,7 @@ baseurl: "/distributedcomputing" # the subpath of your site, e.g. /blog
 url: "https://heydariplusplus.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 show_excerpts: false # set to true to show excerpts on the homepage
 
+
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
@@ -59,6 +60,7 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
  - jekyll-spaceship
+ - jekyll-sitemap
 
 jekyll-spaceship:
   # default enabled processors

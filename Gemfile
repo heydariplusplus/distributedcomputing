@@ -9,3 +9,5 @@ gem "kramdown-parser-gfm" if ENV["JEKYLL_VERSION"] == "~> 3.9"
 gem "webrick", "~> 1.7"
 
 gem 'jekyll-spaceship', group: :jekyll_plugins
+
+gem 'jekyll-sitemap'
