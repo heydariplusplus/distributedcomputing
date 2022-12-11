@@ -53,6 +53,8 @@ minima:
 #header_pages:
 # - about.md
 
+exclude: ['temp']
+
 # Build settings
 theme: minima
 

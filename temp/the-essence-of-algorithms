@@ -61,4 +61,3 @@ In this program, S1, S2, and S9 are defined explicitly.
 A mechanism provided by Python called `for loop` is used to create the other states automatically.
 
 <hr>
-

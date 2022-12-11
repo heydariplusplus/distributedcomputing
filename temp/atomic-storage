@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Atomic Storage"
+categories: concurrency
+---
+
+### Assumptions
+- Each process is sequential.
+
+Atomic storage provides two operations-- `read()` and `write(val)`-- and guarantees that any `read`
+returns the value written by the last `write`.
