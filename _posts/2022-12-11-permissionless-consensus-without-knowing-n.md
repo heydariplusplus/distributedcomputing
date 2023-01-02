@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Solving Consensus in Permissionless Settings"
+categories: consensus
 ---
 
 {% katexmm %}
