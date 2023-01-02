@@ -91,6 +91,7 @@ PLATFORMS
 
 DEPENDENCIES
   bundler
+  execjs
   jekyll-katex
   jekyll-sitemap
   jekyll-spaceship
