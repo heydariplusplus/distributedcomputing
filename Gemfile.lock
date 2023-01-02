@@ -95,6 +95,7 @@ DEPENDENCIES
   jekyll-sitemap
   jekyll-spaceship
   minima!
+  therubyracer
   webrick (~> 1.7)
 
 BUNDLED WITH
