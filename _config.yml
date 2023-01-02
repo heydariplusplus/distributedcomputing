@@ -63,12 +63,13 @@ plugins:
  - jekyll-seo-tag
  - jekyll-spaceship
  - jekyll-sitemap
+ - jekyll-katex
 
 jekyll-spaceship:
   # default enabled processors
   processors:
     - table-processor
-    - mathjax-processor
+    # - mathjax-processor
     - plantuml-processor
     - mermaid-processor
     - polyfill-processor

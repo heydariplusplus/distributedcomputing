@@ -11,3 +11,7 @@ gem "webrick", "~> 1.7"
 gem 'jekyll-spaceship', group: :jekyll_plugins
 
 gem 'jekyll-sitemap'
+
+group :jekyll_plugins do
+    gem 'jekyll-katex'
+  end
