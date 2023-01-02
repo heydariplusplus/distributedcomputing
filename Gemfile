@@ -18,4 +18,4 @@ group :jekyll_plugins do
 
 gem 'execjs'
 
-# gem 'therubyracer', :platform => :ruby
+gem 'therubyracer', :platform => :ruby
