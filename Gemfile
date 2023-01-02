@@ -12,10 +12,10 @@ gem "webrick", "~> 1.7"
 
 gem 'jekyll-sitemap'
 
-group :jekyll_plugins do
-    gem 'jekyll-katex'
-  end
+# group :jekyll_plugins do
+#     gem 'jekyll-katex'
+#   end
 
-gem 'execjs'
-
+# gem 'execjs'
+# gem 'therubyracer'
 # gem 'therubyracer', :platform => :ruby
