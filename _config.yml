@@ -61,9 +61,9 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
- - jekyll-katex
  - jekyll-spaceship
  - jekyll-sitemap
+ - jekyll-katex
 
 
 jekyll-spaceship:
