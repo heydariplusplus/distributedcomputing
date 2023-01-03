@@ -1,10 +1,10 @@
-title: Distributed Computing
+title: World of Properties
 author:
   name: Hasan Heydari
-  email: heydari[at]fc[point]ul[point]pt
+  email: heydariplusplus[at]gmail[point]com
 description: > # this means to ignore newlines until "show_excerpts:"
   Here you can find some content related to computing, specifically distributed computing.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://worldofproperties.xyz" # the base hostname & protocol for your site, e.g. http://example.com
 show_excerpts: false # set to true to show excerpts on the homepage
 
