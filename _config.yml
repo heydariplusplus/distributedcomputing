@@ -4,8 +4,8 @@ author:
   email: heydari[at]fc[point]ul[point]pt
 description: > # this means to ignore newlines until "show_excerpts:"
   Here you can find some content related to computing, specifically distributed computing.
-baseurl: "/distributedcomputing" # the subpath of your site, e.g. /blog
-url: "https://heydariplusplus.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://worldofproperties.xyz" # the base hostname & protocol for your site, e.g. http://example.com
 show_excerpts: false # set to true to show excerpts on the homepage
 
 
