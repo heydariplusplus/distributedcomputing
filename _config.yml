@@ -9,6 +9,8 @@ url: "https://heydariplusplus.github.io" # the base hostname & protocol for your
 show_excerpts: false # set to true to show excerpts on the homepage
 
 
+
+
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
@@ -54,6 +56,7 @@ minima:
 # - about.md
 
 exclude: ['temp']
+include: [".well-known"]
 
 # Build settings
 theme: minima
