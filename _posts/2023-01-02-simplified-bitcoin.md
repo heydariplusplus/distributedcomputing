@@ -33,9 +33,9 @@ We present this simplification to avoid explaining how miners can find each othe
 When a client or miner wants to transfer some money to another client or miner, it creates a transaction.
 Then, it broadcasts the transaction in the network.
 Since we assumed that the system is $$\Delta$$-synchronous, all miners will deliver the transaction up to time $$ t + \Delta$$, where $$t$$ is the time that the transaction was broadcasted.
-After delivering a transaction $$tx$$, each miner $$m$$ take the following steps:
-1. Checking the validity of the transaction. If it is valid, go to step 2; otherwise, ignore this transaction.
-2. Creating a block for the transaction.
+After delivering a set of transactions, each miner $$m$$ takes the following steps:
+1. Checking the validity of the transactions and removing the invalid ones.
+2. Creating a block for the valid transactions.
 3. Reaching an agreement on this block with other miners.
 
 We first explain how a block can be created for a transaction.
