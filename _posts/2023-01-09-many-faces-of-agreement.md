@@ -26,3 +26,11 @@ For any $$\epsilon \in [0,1]$$, we say that probabilistic consistent broadcast i
 4. **$$\epsilon$$-Consistency**: Every correct process that delivers a message delivers the same message with probability at least $$(1 − \epsilon)$$.
 
 [[Reference](https://core.ac.uk/download/pdf/231819228.pdf)]
+
+### 1.3 Reliable Byzantine Broadcast
+1. **No duplication**: No correct process delivers more than one message.
+2. **Integrity**: If a correct process delivers a message $$m$$, and $$p$$ is correct, then $$m$$ was previously broadcast by $$p$$.
+3. **Consistency**: If some correct process delivers a message $$m$$ and another correct process delivers a message $$m'$$,then $$m=m'$$.
+4. **Totality**: If a correct process delivers a message, then every correct process eventually delivers a message.
+
+[[Reference](https://www.amazon.com/Introduction-Reliable-Secure-Distributed-Programming/dp/3642152597)]
