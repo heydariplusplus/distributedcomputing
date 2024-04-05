@@ -6,6 +6,7 @@ title: From Synchrony to Asynchrony
 # thumbnail-img: /assets/img/thumb.png
 # share-img: /assets/img/path.jpg
 tags: [Consensus]
+# comments: true
 # author: Hasan Heydari
 ---
 

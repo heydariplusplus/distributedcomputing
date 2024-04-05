@@ -9,6 +9,8 @@ tags: [consensus]
 author: Hasan Heydari
 ---
 
+In this post, 
+
 Many consensus protocols are structured by rounds in which each process typically either adjusts its preference or decides a value in a round.
 This kind of protocols can be abstracted as **adopt-commit** objects.
 An adopt-commit object supports a single operation, AdoptCommit.
