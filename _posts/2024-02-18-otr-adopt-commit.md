@@ -6,7 +6,7 @@ title: Adopt-Commit and OTR
 # thumbnail-img: /assets/img/thumb.png
 # share-img: /assets/img/path.jpg
 tags: [consensus]
-author: Hasan Heydari
+# author: Hasan Heydari
 ---
 
 In this post, 

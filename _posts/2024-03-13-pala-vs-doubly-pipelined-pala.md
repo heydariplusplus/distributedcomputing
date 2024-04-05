@@ -6,7 +6,7 @@ title: PaLa vs Doubly-Pipelined PaLa
 # thumbnail-img: /assets/img/thumb.png
 # share-img: /assets/img/path.jpg
 tags: [consensus, blockchain]
-author: Hasan Heydari
+# author: Hasan Heydari
 ---
 
 |PaLa | Doubly-Pipelined PaLa|
